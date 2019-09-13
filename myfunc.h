@@ -1,4 +1,2 @@
-std::string func()
-{
-	return "hello";
-}
+#include <iostream>
+std::string func();
