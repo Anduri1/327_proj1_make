@@ -10,3 +10,4 @@ myfunc.cpp: myfunc.cpp myfunc.h
 
 clean:
   rm -f *.0 myexe.exe
+  rm myexe
